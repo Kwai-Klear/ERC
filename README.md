@@ -1,5 +1,5 @@
 <div align="center">
-<h1>✨ CE-GPPO: Coordinating Entropy via Gradient-Preserving Clipping Policy Optimization in Reinforcement Learning</h1>
+<h1>✨ Entropy Ratio Clipping as a Soft Global Constraint for Stable Reinforcement Learning</h1>
 </div>
 
 
